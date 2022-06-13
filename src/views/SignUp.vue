@@ -15,14 +15,14 @@
                     <div class="field">
                         <label>Contraseña</label>
                         <div class="control">
-                            <input type="text" class="input" v-model="password">
+                            <input type="password" class="input" v-model="password">
                         </div>
                     </div>
 
                     <div class="field">
                         <label>Repita su contraseña</label>
                         <div class="control">
-                            <input type="text" class="input" v-model="password2">
+                            <input type="password" class="input" v-model="password2">
                         </div>
                     </div>
 
